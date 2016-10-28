@@ -6,5 +6,8 @@ img: laravel.png
 alt: image-alt
 experience: 1 year 4 months
 level: Intermediate
-description: Since the very first day I picked up laravel on behalf of my current employer, I knew laravel was going to be my calling, from the presentation of neatly bundled documentation, to the ease of access of simply readying a virtual machine called homestead, and in a matter of 15~30 minutes a completely ready environment is set for programing
+description: Since the very first day I picked up laravel on behalf of my current employer, I knew laravel was going to be my calling, from the presentation of neatly bundled documentation, to the ease of access of simply readying a virtual machine called homestead, and in a matter of 15~30 minutes a completely ready environment is set for coding, including database and webserver.
 ---
+
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. At aperiam voluptatibus unde est dolor, id odit nihil suscipit dolores aliquid ipsam doloribus illo vero animi cupiditate odio tenetur, aspernatur dicta!
