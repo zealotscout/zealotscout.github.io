@@ -6,6 +6,6 @@ img: jekyllrb.png
 alt: image-alt
 experience: 3 Months
 level: Beginner
-description: I found Jekyll to be a increibly nice experience for rapidly creating web content, while quickly pushing to github repositories for everyone to see. I'm currently working around to getting to know more of jekyll.
+description: Jekyll has been a part of hobby site project to me, but whos not to say that it has some great potential, I found Jekyll to be a increibly nice experience for rapidly creating web content, while quickly pushing to github repositories for everyone to see. I'm currently working around to getting to know more of jekyll.
 
 ---

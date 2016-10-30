@@ -6,6 +6,6 @@ img: git.png
 alt: image-alt
 experience: 1 year 4 months
 level: Intermediate
-description: Git has been part of my bread and butter for any type of development, be it Javascript, PHP, Visual C#. Learning Git and the uses of repositories has been a integral part of my development career, and a must for any future projects.
+description: Git has been part of my bread and butter for any type of development, be it Javascript, PHP or Visual C#. Learning Git and learning to use repositories has been a integral part of my development career, and a must for any future projects to come.
 
 ---
