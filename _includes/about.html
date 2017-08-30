@@ -12,17 +12,29 @@
                     <p></p>
                 </div>
                 <div class="col-lg-12">
-                    <p></p>
+                    <p> 
+                        How's it going, my name is Angelo Alessandro Marucci, and I'm a Systems Engineer absorbed by the world of computer science and most of it's implications. I'm an Italian who has been through Italy in my early years, to Western Australia during my prime childhood, and settling down as optimistic teenager and adult in Panama.
+                    </p>
+
+                    <p>
+                        Life, with it's many twists and turns, and even moreso with traveling and meeting so many great people, has given me quite the priveledge and opportunity, to learn that you really never know what to expect out of life, until you go out there and see the world for yourself.
+                    </p>
                 </div>
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <a href="#" class="btn btn-lg btn-outline">
-                        <i class="fa fa-linkedin"></i> Get to know more about me
+                    <a id="cv" href="{{ site.cv }}" class="btn btn-lg btn-outline" target="_blank">
+                        <i class="fa fa-file"></i> See Curriculum Vitae
+                    </a>
+                    <hr>
+                    <a id="cv" href="{{ site.cv-es }}" class="btn btn-lg btn-outline" target="_blank">
+                        <i class="fa fa-file"></i> C.V. en Español.
                     </a>
                 </div>
             </div>
 
             <div class="row">
                 <div class="col-lg-12">
+                    {% include we/drupal.html %}
+                    <hr>
                     {% include we/ifarhu.html %}
                     <hr>
                     {% include we/star-contact-egs.html %}

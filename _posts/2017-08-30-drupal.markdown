@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: drupal.png
+alt: image-alt
+experience: 8 Months
+level: Intermediate
+description: Basic to intermediate theming, site-building, feature deployment, module maitenance and general process starting from design to deploment. 
+---
